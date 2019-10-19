@@ -1,0 +1,4 @@
+id,realtime_start,realtime_end,title,observation_start,observation_end,frequency,frequency_short,units,units_short,seasonal_adjustment,seasonal_adjustment_short,last_updated,popularity,notes
+A229RX0Q048SBEA,2019-10-19,2019-10-19,Real Disposable Personal Income: Per Capita,1947-01-01,2019-04-01,Quarterly,Q,Chained 2012 Dollars,Chn. 2012 $,Seasonally Adjusted Annual Rate,SAAR,2019-09-26 08:02:08-05,37,"BEA Account Code: A229RX
+
+For more information about this series, please see http://www.bea.gov/national/."
