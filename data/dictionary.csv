@@ -1,7 +1,7 @@
-﻿variable,plot_name,units,description,source
+variable,plot_name,units,description,source
 year,Year,,Year of the presidential election,
 ch_rdi,% Change in RDI Per Capita,percent,Percent change in real disposable income per capita from Q2 in the year prior to Q2 in the year of the election. ,"From ﻿Federal Reserve Economic Data (FRED), series ID A939RX0Q048SBEA. Accessed using the fredr package in R. Original variable is in seasonally adjusted chained 2012 dollars."
-ch_gpd,% Change in GDP Per Capita,percent,Percent change in GDP per capita from Q2 in the year prior to Q2 in the year of the election. ,"From ﻿Federal Reserve Economic Data (FRED), series ID A229RX0Q048SBEA. Accessed using the fredr package in R. Original variable is in seasonally adjusted chained 2012 dollars."
+ch_gdp,% Change in GDP Per Capita,percent,Percent change in GDP per capita from Q2 in the year prior to Q2 in the year of the election. ,"From ﻿Federal Reserve Economic Data (FRED), series ID A229RX0Q048SBEA. Accessed using the fredr package in R. Original variable is in seasonally adjusted chained 2012 dollars."
 unemployment_rate,Unemployment Rate (%),percent,Seasonally adjusted unemployment rate for June in the year of the election. ,"From ﻿Federal Reserve Economic Data (FRED), series ID UNRATE. Accessed using the fredr package in R. "
 incumbent_margin,Incumbent Margin of Victory,percentage points,Difference between the incumbent party's percent of the two-party votes and the challenger's percent,Data from Dave Leip at https://uselectionatlas.org/RESULTS/. Data imported from https://docs.google.com/spreadsheets/d/1Am1cZb9qJXjupfDxVDS0dmhGXb6RgNYONV14NOr8C3E/edit?usp=sharing published to web as a spreadsheet.
 winner_name,Winner,,Name of the candidate that received the most votes,

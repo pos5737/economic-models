@@ -19,7 +19,7 @@ The table below summarizes the variables in the dataset
 | :-------------------------- | :---------------------- | :--------------------------------------------------------------------------------------------------------------- |
 | Year                        | `year`                  | Year of the presidential election                                                                                |
 | % Change in RDI Per Capita  | `ch_rdi`                | Percent change in real disposable income per capita from Q2 in the year prior to Q2 in the year of the election. |
-| % Change in GDP Per Capita  | `ch_gpd`                | Percent change in GDP per capita from Q2 in the year prior to Q2 in the year of the election.                    |
+| % Change in GDP Per Capita  | `ch_gdp`                | Percent change in GDP per capita from Q2 in the year prior to Q2 in the year of the election.                    |
 | Unemployment Rate (%)       | `unemployment_rate`     | Seasonally adjusted unemployment rate for June in the year of the election.                                      |
 | Incumbent Margin of Victory | `incumbent_margin`      | Difference between the incumbent party’s percent of the two-party votes and the challenger’s percent             |
 | Winner                      | `winner_name`           | Name of the candidate that received the most votes                                                               |
